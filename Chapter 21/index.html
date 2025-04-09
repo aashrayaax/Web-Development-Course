@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity</title>
+    <style>
+        h3{
+            color: red;
+            background-color: cadetblue;
+        }
+        p{
+            color: blue;
+            background-color: lightgreen;
+        }
+        #hello{
+            color: white;
+            background-color: black;
+        }
+        .hi{
+            color: white;
+            background-color: green;
+        }
+
+
+    </style>
+</head>
+<body>
+    <!-- If multiple styles are performed in classes or # or id or element or inline,then all different styles will not be applied .Like BODMAS here in css there is priority  
+     inline->id->class or attribute->element->universal -->
+    <div>
+        <h3>
+            First one
+        </h3>
+        <p style="background-color: aquamarine;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet voluptatum id quam. Nobis architecto voluptatibus excepturi nihil nam repudiandae consectetur, voluptates perspiciatis debitis non distinctio ut sunt itaque fugiat iste?</p>
+        <h3 class="hi">
+            second one
+        </h3>
+        <p id="hello">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, dicta eum odit amet nobis quisquam praesentium voluptate voluptates? Assumenda enim blanditiis eaque odit libero, recusandae voluptas iusto aliquam molestias quia?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, dicta eum odit amet nobis quisquam praesentium voluptate voluptates? Assumenda enim blanditiis eaque odit libero, recusandae voluptas iusto aliquam molestias quia?
+    </div>
+</body>
+</html>

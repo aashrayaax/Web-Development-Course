@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Units in CSS</title>
+    <style>
+        body{
+            background-color: rgb(162, 185, 206);
+        }
+        .first {
+            border: 2px solid black; /* its just 2px border */
+            color: blue;
+            height: 50vh; 
+            /* vh means view height or vw means view width ,that means that lenght box willbe there,if content is more it will overflow out */
+
+        }
+        .second {
+            border: 2px solid black; /* 2 times the root element's font size. */
+            color: red;
+            height: vmin(50vh, 50vw); /* 50% of the smaller of the viewport's height or width. */
+            /* vmin means view minimum, it will take the minimum of the two values, vh and vw */
+        }
+        .cont p{
+            border: 2px solid black;
+            color: green;
+            height: 650px; /* Set a valid height value */
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p class="first">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum, et! lorem520
+        </p>
+    </div>
+    <div>
+        <p class="second">
+            orem ipsibusdam facere id pernesciunt natus quod cupiditate aperiam. Dolorum iure odit mollitia fugiat repellendus amet recusandae commodi, repellat incidunt illum molestiae. Nemo, maiores natus ipsum cumque iure alias quidem ea quis voluptatum modi pariatur vel assumenda aspernatur officiis deleniti. Recusandae doloribus debitis possimus ipsum optio? Necessitatibus repellat deleniti quisquam unde harum perferendis ipsa quo aut maxime, voluptate veniam, eius, qui minima ipsum tempore sint quod suscipit.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quis? Laboriosam iste eius voluptates est officiis doloribus eaque inventore at, quisquam exercitationem delectus placeat ipsam?
+        </p>
+    </div>
+    <div class="cont">
+        <p class="third">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam beatae nisi corrupti laborum deserunt quos debitis tempore rem aut soluta fugit minima facilis quaerat sequi, eligendi placeat asperiores architecto eveniet tenetur amet recusandae id nobis temporibus quidem? In, explicabo nesciunt distinctio qui eligendi soluta error repudiandae sed consectetur labore illo velit ratione voluptas incidunt, ex nihil. Odio earum culpa, nostrum, eaque repudiandae cumque, veniam vero quia quibusdam commodi aspernatur adipisci. Id omnis exercitationem distinctio enim adipisci provident culpa, illum perspiciatis, cupiditate laudantium corporis est voluptatibus eaque accusantium. Explicabo impedit dolore optio distinctio adipisci! Nostrum quae repellendus laudantium pariatur vero quos, labore eos! Odio vel ducimus adipisci a! Expedita voluptates tenetur consectetur incidunt deserunt hic voluptas quo ad facere sapiente sed harum placeat dolores enim, asperiores optio in debitis, ex magni provident! Minus pariatur dolores sapiente cum cumque exercitationem aliquam mollitia, provident modi dolorem vel explicabo, reprehenderit numquam ipsa laudantium quas asperiores aut non repudiandae perferendis? Quaerat, tempora id fugit alias asperiores illum laboriosam iure recusandae eos tempore debitis inventore laudantium hic impedit? Odit ratione cum debitis nesciunt placeat magnam nostrum eveniet, id a totam voluptates officia nisi architecto earum ullam recusandae error tempore, eos nam repudiandae fuga minima neque beatae accusantium. Unde repellendus ullam aperiam ipsa omnis eaque molestias voluptate aliquam doloribus? Id illo fuga nulla ab sit repellat cupiditate, nemo numquam, earum magni necessitatibus omnis sunt aliquam! Laborum dolorum necessitatibus nemo nobis tempora. Non fugiat laudantium ducimus accusantium cumque quisquam est, facilis aliquam eveniet aut molestias commodi dolores officia perspiciatis, maxime expedita vero?</p>
+    </div>
+</body>
+</html>
