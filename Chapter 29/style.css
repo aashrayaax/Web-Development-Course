@@ -1,0 +1,60 @@
+.bigbox {
+    height: 70vh;
+    width: 18vw;
+    border: 1.5px solid rgb(219 214 214);
+    border-radius: 7px;
+}
+
+img {
+    height: 30vh;
+    width: 205px;
+    border-radius: 7px;
+    margin: 4px;
+}
+
+.button {
+    background-color: white;
+    border-radius: 10px;
+    border: 1.5px solid rgb(240, 234, 234);
+    color: rgb(129, 124, 124);
+    cursor: pointer;
+}
+
+.first {
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+
+.second {
+    margin-left: 0px;
+    margin-top: 5px;
+
+}
+
+h2 {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-family: "Hind Siliguri", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.content {
+    margin-top: -20px;
+    margin-left: 10px;
+   color: rgb(129, 124, 124);
+    font-weight:200;
+    
+
+}
+.readmore{
+    border-radius: 15px;
+    color: rgb(116, 197, 248);
+    background-color:rgb(190, 217, 227);
+    border: none;
+    padding: 7px;
+    margin-left: 55px;
+    margin-top: 10px;
+    font-weight: bold; /
+}
