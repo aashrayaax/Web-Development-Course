@@ -1,0 +1,32 @@
+.boxes{
+    border: 2px solid black;
+    display: flex;
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* justify-content: end;
+ */ 
+ /* justify-content: first baseline; */
+ /* justify-content: safe; */
+ /* justify-content: start; */
+/* flex-direction: column; */
+/* flex-direction: column-reverse; */
+/* flex-direction: row-reverse; */
+flex-wrap: wrap;
+/* column-gap: 10px;
+row-gap: 10px; */
+
+  
+}
+.box{
+    border: 2px solid blue;
+    height: 20px;
+    width: 20px;
+    /* margin: 10px; */
+    /* flex-grow: 20px; */
+}
+h1{
+    color: red;
+    text-align: center; 
+}
