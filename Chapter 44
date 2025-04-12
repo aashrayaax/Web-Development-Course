@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download UltraEdit Tech Editor for your windows</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+        <div class="nav">
+            <div class="logo">
+                <img class="firstimg" src="First.com.png" alt="">
+            </div>
+            <div class="list">
+                <ul>
+                    <li>Products﹀</li>
+                    <li>For Business﹀</li>
+                    <li>Resources﹀</li>
+                    <li>Academic lisencing﹀</li>
+                    <li>Our Company﹀</li>
+                </ul>
+            </div>
+            <div>
+                <img class="search" src="Search button.com.png" alt="">
+
+            </div>
+        </div>
+        <div class="body">
+            <div class="line">
+                <div class="box1">
+                    <h1 class="simple">Download &nbsp;</h1>
+                    <h1 class="bold">UltraEdit&nbsp;</h1>
+                    <h1 class="simple">for Windows</h1>
+                </div>
+            </div>
+            <div>
+                <img class="box2" src="orange rectangle.png" alt="">
+            </div>
+        </div>
+        <div class="body2">
+            Download and try UltraEdit before you buy it! This download includes the full Windows <br> version of the
+            text editor.
+        </div>
+        <div class="button">
+            <button class="button1">
+                DOWNLOAD MAC OR LINUX VERSION
+            </button>
+        </div>
+    </div>
+    </div>
+    <div class="main2">
+        <div class="part1">
+            <img class="small" src="small.png" alt="">
+        </div>
+        <div class="part2 same">
+            Download UltraEdit
+        </div>
+        <div class="part3 same">
+            v2024.3 (released 2025-03-21) | Hotfix information
+        </div>
+    </div>
+ <div class="grid">
+        <span class="originalgrid ref1">
+            <div class="main3">
+                <h3>
+                    English
+                </h3>
+                <h5>English</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+        <span class="originalgrid ref2">
+            <div class="main3">
+                <h3>
+                    Deutsch
+                </h3>
+                <h5>German</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+<span class="originalgrid ref3">
+            <div class="main3">
+                <h3>
+                    Italiano
+                </h3>
+                <h5>Italian</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+<span class="originalgrid ref4">
+            <div class="main3">
+                <h3>
+                    Español
+                </h3>
+                <h5>Spanish</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+<span class="originalgrid ref5">
+            <div class="main3">
+                <h3>
+                    français
+                </h3>
+                <h5>French</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+ <span class="originalgrid ref6">
+            <div class="main3">
+                <h3>
+                    Português brasileiro
+                </h3>
+                <h5>Brazilian Portuguse</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+ <span class="originalgrid ref7">
+            <div class="main3">
+                <h3>
+                    日本
+                </h3>
+                <h5>Japanese</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+ <span class="originalgrid ref8">
+            <div class="main3">
+                <h3>
+                    한국어
+                </h3>
+                <h5>Korean</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+ <span class="originalgrid ref9">
+            <div class="main3">
+                <h3>
+                    华语
+                </h3>
+                <h5>Chinese</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+<span class="originalgrid ref9">
+            <div class="main3">
+                <h3>
+                    華語
+                </h3>
+                <h5>Traditional Chinese</h5>
+                <span>
+                    <button class="download">
+                        <a href="ue_english_64.exe">Download 64-bit</a>
+                    </button></span>
+            </div>
+            <div class="main4">
+                <h5>SHA256</h5>
+                <h6>ECE5D50C7E98A334AC2BADAC00E8E53B6C492E138BAD6880448CEF8B20A85F9A
+            </div>
+        </span>
+    </div>
+</body>
+</html>
