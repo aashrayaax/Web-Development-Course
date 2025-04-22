@@ -1,0 +1,30 @@
+.cont{
+    height: 200px;
+    width: 252px;
+    background-color: #bebaba;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    /* background-color: #cc1f1f; */
+   /* animation-name: ashkatransition;
+    animation-duration: 3s;
+    animation-iteration-count: 4;
+    transition-timing-function: cubic-bezier(0.67, 0.41, 0.02, 0.48);
+    animation-delay: 5s; */
+    /* animation-fill-mode: forwards;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;*/
+    /* animation-direction: alternate;  */
+    /* animation-timing-function: ease-in-out;  */
+    animation: ashkatransition 5s ease-in 2s 2 forwards;
+}
+@keyframes ashkatransition{
+    from{
+background-color: #010e03;
+    }
+    to{
+        transform: translate(1000px);
+background-color: aqua;
+    }
+}
