@@ -1,0 +1,57 @@
+let r = Math.random()
+let first, second, third;
+// console.log(r)
+let r = Math.random()
+if(r<0.33) 
+    {
+    first = "Crazy";
+}
+else if(r>0.33 && r<=0.66)
+    {
+    first = "Amazing"
+    }
+else if(r>0.66)
+{
+    first = "Fire"
+}
+
+
+
+r = Math.random()
+
+if (r<0.33) 
+    {
+    second = "Engine";
+}
+else if(r>0.33 && r<=0.66)
+    {
+    second = "Foods"
+}
+else if(r>0.66)
+{
+    second = "Garments"
+}
+
+
+
+r = Math.random()
+
+if(r<0.33)
+    {
+    third = "Bros";
+}
+else if(r>0.33 && r<=0.66) 
+{
+    third = "Limited"
+}
+else if(r>0.66)
+{
+    third = "Hub"
+}
+
+
+console.log(`${first} ${second} ${third}`)
+
+
+
+
