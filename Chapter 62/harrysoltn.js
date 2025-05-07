@@ -1,4 +1,4 @@
-let r = Math.random()
+// let r = Math.random()
 let first, second, third;
 // console.log(r)
 let r = Math.random()
@@ -17,34 +17,34 @@ else if(r>0.66)
 
 
 
-r = Math.random()
+random = Math.random()
 
-if (r<0.33) 
+if (random<0.33) 
     {
     second = "Engine";
 }
-else if(r>0.33 && r<=0.66)
+else if(random>0.33 && random<=0.66)
     {
     second = "Foods"
 }
-else if(r>0.66)
+else if(random>0.66)
 {
     second = "Garments"
 }
 
 
 
-r = Math.random()
+rand = Math.random()
 
-if(r<0.33)
+if(rand<0.33)
     {
     third = "Bros";
 }
-else if(r>0.33 && r<=0.66) 
+else if(rand>0.33 && rand<=0.66) 
 {
     third = "Limited"
 }
-else if(r>0.66)
+else if(rand>0.66)
 {
     third = "Hub"
 }
