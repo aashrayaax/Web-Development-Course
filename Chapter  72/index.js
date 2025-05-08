@@ -1,0 +1,1 @@
+console.log("This is the solution to the exercise in Chapter 70");

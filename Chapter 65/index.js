@@ -1,6 +1,6 @@
 console.log("hiiiii")
 
-let n = 5;
+let n = 12;
 let fact = 1;
 
 for (let i = n; i >= 1; i--) {
